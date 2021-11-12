@@ -1,0 +1,2 @@
+rootProject.name = "creda 2"
+include ':app'
